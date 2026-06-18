@@ -1,60 +1,63 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Dina Mahfouz</h1>
-<h3 align="center">Automation & DevOps Enthusiast</h3>
+<h3 align="center">Automation Engineer | AI Enthusiast | Aspiring AI Engineer</h3>
 
 ---
 
 ### 👨‍💻 About Me
-I am an accomplished **Virtualization Specialist** with extensive experience designing, managing, and optimizing complex virtual infrastructures, developed through my tenure at **VMware**. I have deep expertise in **hypervisors, cloud technologies, and large-scale enterprise environments**, delivering resilient and high-performance systems.
 
-My background includes strong proficiency in **security solutions and authentication technologies** — particularly **RSA SecurID (MFA)** — where I’ve ensured secure access management and production stability for critical business applications.
+I'm an Automation and Infrastructure professional with a strong background in enterprise virtualization, cloud technologies, and cybersecurity. Through my experience supporting enterprise customers, I've developed expertise in solving complex technical challenges, improving system reliability, and automating operational processes.
 
-I’m passionate about applying **coding, automation, and DevOps practices** to transition infrastructure management from reactive to **proactive, scalable operations**. Currently, I’m exploring how **AI and machine learning** can optimize workflows, enhance security, and enable intelligent, automated diagnostics.
+My professional background includes working extensively with **VMware**, **RSA SecurID (MFA)**, cloud platforms, and enterprise environments, helping organizations optimize performance, security, and business continuity.
+
+I'm currently transitioning my career toward **Artificial Intelligence and Intelligent Automation**. I'm actively learning and building projects with **Large Language Models (LLMs), Microsoft Copilot Studio, AI Agents, Retrieval-Augmented Generation (RAG), Prompt Engineering, Python, and AI workflow automation**, with the goal of becoming an **AI Engineer**.
+
+I enjoy building intelligent solutions that automate repetitive tasks, streamline business processes, and enhance customer experiences through AI.
 
 ---
 
 ### 🚀 Tech Stack
 
-**☁️ Cloud & Virtualization:**  
+**🤖 AI & Automation:**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft Copilot Studio](https://img.shields.io/badge/Microsoft%20Copilot%20Studio-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+
+**☁️ Cloud & Infrastructure:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-%23607C8B.svg?style=for-the-badge&logo=vmware&logoColor=white)
 
-**⚙️ Automation & IaC:**  
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**🐳 Containerization:**  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**📊 Monitoring:**  
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-**💻 Scripting & Version Control:**  
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**💻 Programming & Tools:**  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 🧠 What I'm Currently Working On
-* Automating hybrid **AWS + VMware** environments using Infrastructure as Code.
-* Building end-to-end **CI/CD pipelines** with Jenkins & GitHub Actions for rapid, reliable deployment.
-* Writing reusable **Terraform modules** and **Ansible playbooks** to ensure configuration consistency.
-* Improving observability with **Prometheus** and **Grafana** for advanced metrics and alerting.
-* **Integrating DevSecOps practices** by shifting security left with SAST/DAST tools and implementing **Secrets Management** (e.g., HashiCorp Vault).
-* Mastering **Kubernetes (K8s) orchestration** and leveraging **Helm** for declarative microservice deployment.
-* Exploring **AIOps** by integrating ML for **anomaly detection** in log and performance data.
+
+- 🤖 Building AI chatbots with **Microsoft Copilot Studio**.
+- 🧠 Learning **LLMs**, **Prompt Engineering**, and **Retrieval-Augmented Generation (RAG)**.
+- ⚡ Creating intelligent automation solutions using **Python** and **Power Automate**.
+- 🔗 Exploring AI agents and enterprise workflow automation.
+- 📄 Developing AI solutions that leverage enterprise knowledge and documentation.
+- 🚀 Building hands-on AI projects to strengthen my AI engineering skills and portfolio.
 
 ---
 
 ### 🏅 Certifications
-- 🪶 **VMware Certified Advanced Professional – Deploy (VCAP-DCV)**  
-- 🧩 **VMware Certified Professional – Data Center Virtualization (VCP-DCV)**  
-- ☁️ **Google Certified Associate Cloud Engineer**  
+
+- 🤖 **AWS Certified AI Practitioner**
+- 📋 **Project Management Professional (PMP)**
+- ☁️ **Google Certified Associate Cloud Engineer**
+- 🏗️ **HashiCorp Certified: Terraform Associate**
+- 🪶 **VMware Certified Advanced Professional – Deploy (VCAP-DCV)**
+- 🧩 **VMware Certified Professional – Data Center Virtualization (VCP-DCV)**
 
 ---
 
@@ -64,4 +67,4 @@ I’m passionate about applying **coding, automation, and DevOps practices** to 
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinamamdouhhh@gmail.com)
 
 ---
-
+```
