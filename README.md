@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dina Mahfouz
 
-### Automation Engineer | AI Enthusiast | Aspiring AI Engineer
+### AI Enthusiast | Aspiring AI Engineer
 
 ---
 
