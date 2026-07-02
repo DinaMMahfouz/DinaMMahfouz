@@ -27,7 +27,7 @@ I enjoy combining real enterprise support experience with AI agents, prompt engi
 - Prompt engineering for enterprise support use cases
 - RAG and knowledge automation
 - Python for data analysis and automation
-- Cloud, IAM, and DevOps fundamentals
+- Cloud and IAM fundamentals
 
 ---
 
