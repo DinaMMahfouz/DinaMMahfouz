@@ -1,140 +1,67 @@
 # Hi, I'm Dina Mahfouz 👋
 
-## Enterprise Technical Support Engineer | IAM & Cloud | AI Automation Builder
+**Enterprise Support Engineer (IAM & MFA) → AI Engineer.**
+I build practical AI agents and automation for technical support operations — log analysis, root-cause analysis, ticket triage, and knowledge automation — with a focus on **local, open-source LLMs** I can fully explain and defend.
 
-I am a Technical Support Engineer with experience in enterprise Identity and Access Management, MFA, cloud technologies, virtualization, and customer-facing troubleshooting.
-
-My current focus is building AI-powered support and automation tools that help technical teams work faster and smarter — from troubleshooting and root-cause analysis to customer updates, knowledge base creation, meeting summaries, and support workflow automation.
-
-I enjoy combining real enterprise support experience with AI agents, prompt engineering, cloud, and automation to solve practical business and technical problems.
+📍 Egypt &nbsp;·&nbsp; 💼 Enterprise IAM / MFA support &nbsp;·&nbsp; 🤖 Building AI tooling for support ops
 
 ---
 
-## What I Do
+## 🚀 Featured Projects
 
-- Support enterprise IAM, MFA, and authentication environments
-- Troubleshoot complex customer issues across identity, cloud, and infrastructure systems
-- Build AI-powered tools for support operations and workflow automation
-- Create structured technical documentation, RCA summaries, and customer-ready updates
-- Explore AI agents, RAG, prompt engineering, and Copilot Studio solutions
-
----
-
-## Current Focus
-
-- AI Agents and multi-agent support workflows
-- Microsoft Copilot Studio and Power Automate
-- Prompt engineering for enterprise support use cases
-- RAG and knowledge automation
-- Python for data analysis and automation
-- Cloud and IAM fundamentals
+| Project | What it does | Stack |
+|---|---|---|
+| **[AI Agents with Memory](https://github.com/DinaMMahfouz/AI-Agents-with-Memory)** | AI agents that retain conversation context across turns and use it in follow-up answers | Python · Ollama · OpenAI Agents SDK · SQLite |
+| **[AI Agents Learning Journey](https://github.com/DinaMMahfouz/AI-Agents-Learning-Journey)** | Hands-on hub of agent, RAG, prompt-engineering & automation experiments | Python · Ollama · Claude |
+| **[HR Leave Management Agent](https://github.com/DinaMMahfouz/HR-Leave-Management-Agent)** | Conversational HR self-service: policy lookup, benefits, and leave requests | Copilot Studio · Power Automate |
+| **[Smart Restaurant Ordering](https://github.com/DinaMMahfouz/Smart-Restaurant-Ordering-System)** | Conversational food-ordering assistant with Adaptive Cards | Copilot Studio · Power Automate |
 
 ---
 
-## Featured Projects
+## 🎯 What I'm Building
 
-### AI Agents Learning Journey
-Hands-on learning repository for experimenting with AI agents, prompt engineering, automation workflows, and different AI models.
+AI tools that help support engineers work faster and more reliably — log analysis, RCA generation, case summarization, customer-email drafting, and knowledge-base creation — built responsibly, with anti-hallucination guardrails and privacy-aware data routing (local models for anything client-identifiable).
 
-[View Repository](https://github.com/DinaMMahfouz/AI-Agents-Learning-Journey)
-
----
-
-### HR Leave Management Agent
-A Microsoft Copilot Studio assistant designed to automate HR leave requests, policy lookup, vacation balance checks, and employee self-service workflows.
-
-[View Repository](https://github.com/DinaMMahfouz/HR-Leave-Management-Agent)
+**Currently learning:** AI agents & multi-agent workflows · RAG · Python for automation · n8n
 
 ---
 
-### Smart Restaurant Ordering System
-A conversational AI ordering assistant built using Copilot Studio, Adaptive Cards, and Power Automate to collect and process customer food orders.
+## 🛠️ Skills
 
-[View Repository](https://github.com/DinaMMahfouz/Smart-Restaurant-Ordering-System)
-
----
-
-### Calorie Tracker
-An AI-assisted calorie tracking application focused on meal logging, nutrition estimation, and health-focused automation experiments.
-
-[View Repository](https://github.com/DinaMMahfouz/calorie-tracker)
-
----
-
-## Technical Skills
-
-### AI & Automation
+**AI & Automation**
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge)
-![Copilot Studio](https://img.shields.io/badge/Microsoft%20Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
-### Cloud & Infrastructure
+**Languages & Cloud**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### DevOps & Tools
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Identity & Security
+**Identity & Security**
 ![IAM](https://img.shields.io/badge/IAM-000000?style=for-the-badge)
 ![MFA](https://img.shields.io/badge/MFA-000000?style=for-the-badge)
 ![SAML](https://img.shields.io/badge/SAML-000000?style=for-the-badge)
 ![OIDC](https://img.shields.io/badge/OIDC-000000?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge)
 
 ---
 
-## Certifications
-- AWS AWS AI Practitioner AIF-C01
+## 📜 Certifications
+
+- AWS Certified AI Practitioner (AIF-C01)
+- project management professional (PMP)
 - AWS Certified Solutions Architect
 - Google Cloud Professional Cloud Architect
 - HashiCorp Terraform Associate
 - VMware VCP / VCAP
-- RSA product and technical enablement experience
+- RSA product & technical enablement
 
 ---
 
-## What I’m Building Toward
+## 📫 Connect
 
-I am building a strong portfolio around intelligent support automation, where AI agents can assist support engineers with:
-
-- Log analysis
-- RCA generation
-- Case summarization
-- Customer email drafting
-- Knowledge base creation
-- Meeting notes
-- Cadence preparation
-- Customer environment assessments
-
-My goal is to use AI in a practical and responsible way to improve support quality, reduce manual work, and help technical teams deliver faster and more structured customer outcomes.
-
----
-
-## GitHub Portfolio Direction
-
-This GitHub profile documents my learning journey and practical projects across:
-
-- AI automation
-- Enterprise support operations
-- Copilot Studio agents
-- Cloud and infrastructure
-- IAM and cybersecurity
-- Python and workflow automation
-
----
-
-## Connect With Me
-[LinkedIn](https://www.linkedin.com/in/dina-mahfouz-a9aa65167)
-
----
-
-> “The best AI tools are not just fast — they are structured, reliable, and built around real business problems.”
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dina-mahfouz-a9aa65167)
