@@ -5,18 +5,6 @@ I build practical AI agents and automation for technical support operations — 
 
 📍 Egypt &nbsp;·&nbsp; 💼 Enterprise IAM / MFA support &nbsp;·&nbsp; 🤖 Building AI tooling for support ops
 
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[AI Agents with Memory](https://github.com/DinaMMahfouz/AI-Agents-with-Memory)** | AI agents that retain conversation context across turns and use it in follow-up answers | Python · Ollama · OpenAI Agents SDK · SQLite |
-| **[AI Agents Learning Journey](https://github.com/DinaMMahfouz/AI-Agents-Learning-Journey)** | Hands-on hub of agent, RAG, prompt-engineering & automation experiments | Python · Ollama · Claude |
-| **[HR Leave Management Agent](https://github.com/DinaMMahfouz/HR-Leave-Management-Agent)** | Conversational HR self-service: policy lookup, benefits, and leave requests | Copilot Studio · Power Automate |
-| **[Smart Restaurant Ordering](https://github.com/DinaMMahfouz/Smart-Restaurant-Ordering-System)** | Conversational food-ordering assistant with Adaptive Cards | Copilot Studio · Power Automate |
-
----
 
 ## 🎯 What I'm Building
 
