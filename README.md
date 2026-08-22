@@ -21,4 +21,3 @@ I'm currently developing hands-on projects across:
 * **Machine Learning** — preprocessing, feature engineering, classification, model evaluation, and explainability
 * **LLM Applications** — Hugging Face models, local/open-weight LLMs, prompt engineering, and evaluation
 * **AI Backend Engineering** — Python, FastAPI, APIs, validation, and model serving
-* **Fine-Tuning** — building practical experience with Hugging Face, PEFT, LoRA, and QLoRA
