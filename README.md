@@ -38,14 +38,6 @@ I bring production support-engineering discipline — diagnosing real failures u
 
 ---
 
-### 🔭 In progress / planned
-
-- **RSA Error Log Whisperer** — parses RSA Authentication Manager / Cloud Authentication Service logs and surfaces likely root cause, grounded in real diagnostic patterns
-- **Ticket Triage Sidekick** — AI-assisted first-pass triage and routing for enterprise support tickets
-- **Doc Gap-Finder** — flags where product documentation is missing or out of date against real support case patterns
-
----
-
 ### 🛠️ Tools & stack
 
 Python · FastAPI · LangChain · LangGraph · MCP (Model Context Protocol) · Claude Code · OpenAI Agents SDK · Hugging Face · Streamlit · Supabase/Postgres · Qdrant · Ollama · n8n · Power Automate · Microsoft Copilot Studio
