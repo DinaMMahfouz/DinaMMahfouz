@@ -40,4 +40,4 @@ Python · FastAPI · LangChain · LangGraph · MCP (Model Context Protocol) · C
 
 ---
 
-📫 Connect: [LinkedIn](https://www.linkedin.com/in/dina-mahfouz-a9aa65167)
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/dina-mahfouz-002a8b3a1/)
